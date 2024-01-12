@@ -17,3 +17,6 @@ Module 8 Final Project
 UnitTest.cs
 -A simple unit test that checks item inventory.
 
+inorderTraversal.cpp
+- Program that traverses the nodes of a binary search tree
+- uses recursion
