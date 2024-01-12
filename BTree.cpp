@@ -225,3 +225,20 @@ void BTree:: insert(int k) {
 int* BTreeNode::getKeys() {
 	return keys;
 }
+
+int main()
+{
+	BTree btreeObj(3);
+	btreeObj.insert(10);
+	btreeObj.insert(15);
+	btreeObj.insert(5);
+	btreeObj.insert(1);
+	btreeObj.insert(20);
+	btreeObj.insert(33);
+	btreeObj.insert(7);
+	btreeObj.insert(27);
+
+	btreeObj.Traverse();
+	btreeObj.rangeQuerySearchTree(1, 30);
+ 
+}
