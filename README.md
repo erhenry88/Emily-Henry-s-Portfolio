@@ -7,7 +7,10 @@ BTree.cpp
 - A C++ example of a binary search tree.
 
 Final Project Prolog Quicksort
--A prolog language version of the sorting method quicksort.
+-A Prolog language version of the sorting method quicksort.
 
+Module 8 Final Project
+- Python pandas progam
+- takes a csv file of weather data and formats as well as gathers statistics about the weather data.
 
 
