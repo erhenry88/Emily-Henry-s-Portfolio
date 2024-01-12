@@ -15,7 +15,7 @@ Module 8 Final Project
 - takes a csv file of weather data and formats as well as gathers statistics about the weather data.
 
 UnitTest.cs
--A simple unit test that checks item inventory.
+-A simple C# unit test that checks if an item is in stock.
 
 inorderTraversal.cpp
 - Program that traverses the nodes of a binary search tree
