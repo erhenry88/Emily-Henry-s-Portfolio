@@ -2,7 +2,8 @@
 
  Module 3 A Programmer's Quickguide-
 - A Python application that contains a dictionary of programming keywords.
--- Has a manually programmed Graphical User Interface
+- Has a manually programmed Graphical User Interface
+
   Activity 3 Wireframe Programmer's Quick Guide &
   - A wireframe document of the applicationuser interface
 
