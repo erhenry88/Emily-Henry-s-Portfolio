@@ -5,7 +5,7 @@
 - A Python application that contains a dictionary of programming keywords.
 - Has a manually programmed Graphical User Interface
 
-  Activity 3 Wireframe Programmer's Quick Guide &
+  Activity 3 Wireframe Programmer's Quick Guide 
   This shows the design of what a user would see for the Programmer Quickguide application.
   - A wireframe document of the application user interface
 
