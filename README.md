@@ -6,7 +6,8 @@
 - Has a manually programmed Graphical User Interface
 
   Activity 3 Wireframe Programmer's Quick Guide &
-  - A wireframe document of the applicationuser interface
+  This shows the design of what a user would see for the Programmer Quickguide application.
+  - A wireframe document of the application user interface
 
 
 BTree.cpp
