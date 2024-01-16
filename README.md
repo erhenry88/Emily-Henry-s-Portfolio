@@ -1,6 +1,7 @@
 # Portfolio
 
  Module 3 A Programmer's Quickguide-
+ This is a program that I developed. It includes the following:
 - A Python application that contains a dictionary of programming keywords.
 - Has a manually programmed Graphical User Interface
 
